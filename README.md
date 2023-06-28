@@ -1,16 +1,14 @@
-### Hi there 👋
+🎓 **Hi there, I'm Rahul!** 
 
-<!--
-**rahulrajput13/rahulrajput13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I just graduated with my Masters in Business Analytics from UC Davis where I was recognized by the academic honor society Beta Gamma Sigma for my academic performance during the program. I'm currently looking for roles as a Business/Data Analyst or Data Engineer! 
 
-Here are some ideas to get you started:
+I have work experience in diverse settings - State, Startup, and Consulting helping build, manage, and deliver multiple projects and products. The most fun aspect for me in all these experiences was where I got to work with data and building out insghts. This inspired me to make a switch into the field of Data. It has been a little over a year since I started my journey and I've grown and learnt a lot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aside from work I love learning about anything and everything under thew sun, spending significant time on platforms like Quora, Nautilus, Wired, etc. Last book read - 'Your Inner Fish' by Neil Shubin. 
+
+
+🍳 **Random facts about me!**
+I have summited a mountain at 15,000 ft. [Pangarchulla Peak]([https://pages.github.com/](https://www.google.com/search?q=pangarchulla&sxsrf=APwXEddZifUAPomq1EMD21QHNi9MfuuOWg%3A1687918389230&ei=NZebZKvPDdbF0PEP9s2ZsAE&gs_ssp=eJzj4tVP1zc0TDJLT47PyzM0YPTiKUjMS08sSs4ozclJBACDngmG&oq=Pangarchulla&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgcILhCKBRBDMgoIABCABBAUEIcCMgoIABCABBAUEIcCMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMhUILhCKBRBDEJcFENwEEN4EEOAEGAE6BQgAEKIESgQIQRgAUABYmQJghQ5oAHABeACAAdcBiAHtBJIBBTAuMS4ymAEAoAEBwAEB2gEGCAEQARgU&sclient=gws-wiz-serp)https://www.google.com/search?q=pangarchulla&sxsrf=APwXEddZifUAPomq1EMD21QHNi9MfuuOWg%3A1687918389230&ei=NZebZKvPDdbF0PEP9s2ZsAE&gs_ssp=eJzj4tVP1zc0TDJLT47PyzM0YPTiKUjMS08sSs4ozclJBACDngmG&oq=Pangarchulla&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgcILhCKBRBDMgoIABCABBAUEIcCMgoIABCABBAUEIcCMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMhUILhCKBRBDEJcFENwEEN4EEOAEGAE6BQgAEKIESgQIQRgAUABYmQJghQ5oAHABeACAAdcBiAHtBJIBBTAuMS4ymAEAoAEBwAEB2gEGCAEQARgU&sclient=gws-wiz-serp).
+
+---
+[![My Skills](https://skillicons.dev/icons?i=c,docker,git,kafka,mongodb,mysql,matlab,py,regex,selenium&theme=light)](https://skillicons.dev)
