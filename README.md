@@ -6,10 +6,5 @@ I have work experience in diverse settings - State, Startup, and Consulting help
 
 Aside from work I love learning about anything and everything under thew sun, spending significant time on platforms like Quora, Nautilus, Wired, etc. Last book read - 'Your Inner Fish' by Neil Shubin. 
 
-
-🍳 **Random facts about me!**
-
-I have summited a mountain at 15,000 ft. [Pangarchulla Peak]([https://pages.github.com/](https://www.google.com/search?q=pangarchulla&sxsrf=APwXEddZifUAPomq1EMD21QHNi9MfuuOWg%3A1687918389230&ei=NZebZKvPDdbF0PEP9s2ZsAE&gs_ssp=eJzj4tVP1zc0TDJLT47PyzM0YPTiKUjMS08sSs4ozclJBACDngmG&oq=Pangarchulla&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgcILhCKBRBDMgoIABCABBAUEIcCMgoIABCABBAUEIcCMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMhUILhCKBRBDEJcFENwEEN4EEOAEGAE6BQgAEKIESgQIQRgAUABYmQJghQ5oAHABeACAAdcBiAHtBJIBBTAuMS4ymAEAoAEBwAEB2gEGCAEQARgU&sclient=gws-wiz-serp)https://www.google.com/search?q=pangarchulla&sxsrf=APwXEddZifUAPomq1EMD21QHNi9MfuuOWg%3A1687918389230&ei=NZebZKvPDdbF0PEP9s2ZsAE&gs_ssp=eJzj4tVP1zc0TDJLT47PyzM0YPTiKUjMS08sSs4ozclJBACDngmG&oq=Pangarchulla&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgAMgcILhCKBRBDMgoIABCABBAUEIcCMgoIABCABBAUEIcCMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgcIABCKBRBDMhUILhCKBRBDEJcFENwEEN4EEOAEGAE6BQgAEKIESgQIQRgAUABYmQJghQ5oAHABeACAAdcBiAHtBJIBBTAuMS4ymAEAoAEBwAEB2gEGCAEQARgU&sclient=gws-wiz-serp).
-
 ---
 [![My Skills](https://skillicons.dev/icons?i=c,docker,git,kafka,mongodb,mysql,matlab,py,regex,selenium&theme=light)](https://skillicons.dev)
