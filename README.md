@@ -1,8 +1,8 @@
 ## Hi, I'm Rahul Rajput
 
-I'm a Data Analyst with a strong foundation in end-to-end analytics — from ingesting large-scale, real-time data streams to deploying robust statistical and machine learning models that drive business impact.
+I'm a Data Analyst with 3+ years of experience and a strong foundation in end-to-end analytics — from ingesting & processing large-scale, continuous data, to conducting in depth analyses, creating detailed reports/dashboards and building robust statistical and machine learning models that drive business impact. I also specialise in designing statistical experiments.
 
-Most recently, I worked at **Wiliot**, where I built ML and analytics pipelines to track the movement of over 100 million objects annually across 1,000+ retail and logistics sites. I contributed to modeling architecture (Bayesian Markov models, Kalman Filters), built national-scale dashboards, and developed infrastructure-aware experiments and KPI libraries used across product teams.
+Most recently, I worked at **Wiliot**, where I built ML and analytics pipelines to track the movement of over 10 million objects annually across 500+ retail and logistics sites. I contributed to modeling architecture (Bayesian Markov models, Kalman Filters), built national-scale dashboards, created standardised experiments and contributed to the Analytics Repo.
 
 I hold a **Master’s in Business Analytics from UC Davis**, where I was inducted into **Beta Gamma Sigma** for academic excellence. My prior background includes an Engineering degree from the **University of Oxford**, with early roles in analytics consulting, product strategy, and public policy.
 
